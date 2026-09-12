@@ -19,10 +19,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Piyush-raj24/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Piyush-raj24/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Piyush-raj24/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Piyush-raj24/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
@@ -60,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Piyush-raj24/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Piyush-raj24/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Piyush-raj24/leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
